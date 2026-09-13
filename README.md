@@ -1,5 +1,7 @@
 Autor: Felipe Lopes Umphir
 
+Desenvolver, a partir do conceitos de funções recursivas, os seguintes exercícios:
+
 1)   Serie1 = (1+2+3+...+100)
 
 2)   Serie2 = (N) + (N-1) + (N-2) + ... + (1) 
