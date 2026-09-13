@@ -1,6 +1,6 @@
 Autor: Felipe Lopes Umphir
 
-Desenvolver, a partir do conceitos de funções recursivas, os seguintes exercícios:
+Desenvolver, a partir do conceito de funções recursivas, os seguintes exercícios:
 
 1)   Serie1 = (1+2+3+...+100)
 
